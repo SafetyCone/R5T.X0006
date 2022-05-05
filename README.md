@@ -1,0 +1,2 @@
+# R5T.X0006
+Extensions at the intersection of Roslyn syntax functionality and typed syntax annotations (R5T.L0011 and R5T.T0126).
